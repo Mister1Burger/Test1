@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="push">Push Information</string>
+    <string name="show_price_list">Show Price List</string>
+    <string name="price_of">Price of</string>
+    <string name="save_btn">Save</string>
+    <string name="cancel_btn">Cancel</string>
+</resources>
